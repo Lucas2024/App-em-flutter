@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344051770466",
+    "project_id": "cadastro2021-b3a79",
+    "storage_bucket": "cadastro2021-b3a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344051770466:android:7de32f5536d390ee98dd3b",
+        "android_client_info": {
+          "package_name": "com.example.cadastros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344051770466-v2vkf96l50568r45ot632nf0om55m3j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cadastros",
+            "certificate_hash": "838788a463e5bd348b6dc39e0904bcee0c6299e4"
+          }
+        },
+        {
+          "client_id": "344051770466-t6m3e4vbtpooh60st4l62n6alj6362sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlD9P_KPj1ancOMyNAvC-YT_JAbIkzB9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344051770466-t6m3e4vbtpooh60st4l62n6alj6362sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
